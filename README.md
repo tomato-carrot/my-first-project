@@ -1,2 +1,3 @@
 # my-first-project
-�e�X�g�p�̃v���W�F�N�g�ł�
+テスト用のプロジェクトです
+内容変更のテストです
